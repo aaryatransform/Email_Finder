@@ -1,0 +1,21 @@
+# .gitignore for Python/Streamlit projects
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+build/
+dist/
+*.egg-info/
+.DS_Store
+*.log
+*.xlsx
+*.xls
+*.csv
+scraper.log
+errors.log
+output_with_domains.xlsx
+input_companies.xlsx
+MEAC.xlsx
